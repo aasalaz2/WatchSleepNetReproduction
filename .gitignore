@@ -1,0 +1,14 @@
+__pycache__
+*.log
+*.pt
+*.pth
+*.onnx
+*config_backup.py
+*.csv
+*.png
+*.ipynb
+*.ipynb_checkpoints
+*notebooks*
+*_new.py
+*config.py
+*optuna_studies*
